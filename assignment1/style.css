@@ -1,0 +1,47 @@
+.a
+{
+    color: rgb(205, 13, 13);
+}
+.b
+{
+    color: rgb(222, 90, 42);
+    font-style: italic;
+}
+.c{
+    color: brown;
+    padding: 1%;
+}
+.d{
+    color: brown;
+    font-style: italic;
+    text-decoration: underline;
+    padding: 1%;
+}
+#a1
+{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#a2
+{
+    background-color: yellow;
+    font-weight: bold;
+}
+.e
+{
+    color: brown;
+    letter-spacing: 0.1cm;
+}
+#a3{
+    background-color: yellow;
+}
+.f
+{
+    color: brown;
+   padding-bottom: 0.4cm;
+}
+#a4
+{
+    color: red;
+    background-color: yellow;
+}
